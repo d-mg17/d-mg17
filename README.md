@@ -1,9 +1,8 @@
-# 👋 Hi, I’m **Diego Martínez**
-## I'm a collage student in UPR-Mayagüez coursing the career of Computer Science and Engineering.
+# 👋 Hi, I’m Diego Martínez García 
 
+### I’m a Computer Science and engineering studient at UPRM. Currently on the Solar Car Team (SERRT) in the [*Telemetry Division*.](https://www.github.com/SERRT-Telemetry)
 
-#### **I’m looking to gain experience, practice and learn.**
+> #### ***Open To Work***
 
-
-###### *📫 How to reach me: d.mg17@outlook.com or [LinkedIn](https://www.linkedin.com/in/d-mg17)*
-
+## 📫 CONTACT ME 
+[MAIL](mailto:d.mg17@outlook.com) | [LINKEDIN](https://www.linkedin.com/in/d-mg17/)
