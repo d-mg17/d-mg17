@@ -8,11 +8,14 @@
 
 <h1 align="center">👋 Hi, I’m Diego Martínez García</h1>
 <div align="center">
-  <a href="https://www.linkedin.com/in/d-mg17/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=Gmail&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <a href="mailto:d.mg17@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=Gmail&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/d-mg17/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=data:image/https://icons8.com/icon/447/linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+    <a href="https://www.github.com/diegomartinez13" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=University Github&logo=GitHub&label=&color=purple&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo"  />
   </a>
 </div>
 <div align="center">
