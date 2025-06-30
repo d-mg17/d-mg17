@@ -1,36 +1,165 @@
 <div align="center">
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?text=Hello%20World!%20💻&animation=fadeIn&type=blur&color=gradient&height=300&section=header"/>
+    <img src="https://capsule-render.vercel.app/api?text=Hello%20World!&animation=fadeIn&type=blur&color=gradient&height=250&section=header"/>
   </p>
 </div>
 
-###
+<h1 align="center">👋 I’m Diego Martínez García</h1>
 
-<h1 align="center">👋 Hi, I’m Diego Martínez García</h1>
 <div align="center">
-  <a href="mailto:d.mg17@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=Gmail&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=AABA99&center=true&vCenter=true&width=940&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Developer;Solar+Car+Team+Lead+Developer;Research+Assistant;Problem+Solver" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="mailto:d.mg17@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Outlook"/>
   </a>
-  <a href="https://www.linkedin.com/in/d-mg17/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=data:image/https://icons8.com/icon/447/linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/d-mg17/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-    <a href="https://www.github.com/diegomartinez13" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=University Github&logo=GitHub&label=&color=purple&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo"  />
+  <a href="https://www.github.com/diegomartinez13">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
+
+---
+
+## 🚀 About Me
+
+```typescript
+const DIEGO = {
+    location: "Puerto Rico 🇵🇷",
+    nationality: "Mexico 🇲🇽",
+    education: "Computer Science & Engineering @ UPR Mayagüez",
+    currentRole: "Lead Software Developer",
+    team: "UPRM Solar Car Team (SERRT-UPRM)",
+    division: "Telemetry",
+    research: "Undergraduate Research Assistant @ CAWT",
+    interests: ["Full-Stack Development", "IoT", "Data Science", "Machine Learning"],
+    currentlyLearning: ["IT Automation", "High Performance Computing", "Embedded Systems"],
+    funFact: "I help build solar-powered race cars! ☀️🏎️"
+};
+```
+
+## 🎯 What I'm Working On
+
+🔬 **Research Assistant** - Contributing to cutting-edge projects at [CAWT](https://cawt.upr.edu/about-us/)  
+⚡ **Solar Car Development** - Leading telemetry systems for the [UPRM Solar Car Team](https://www.uprm.edu/solarcar/)  
+📚 **Academic Excellence** - Pursuing Computer Science & Engineering at UPR Mayagüez  
+🌱 **Continuous Learning** - Always exploring new technologies and methodologies  
+
+## 🛠️ Tech Stack
+
+<details>
+<summary>💻 Programming Languages</summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</details>
+
+<details>
+<summary>🌐 Frontend Development</summary>
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</details>
+
+<details>
+<summary>⚙️ Backend Development</summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+</details>
+
+<details>
+<summary>🗄️ Databases</summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</details>
+
+<details>
+<summary>🤖 AI/ML & Data Science</summary>
+<br>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+</details>
+
+<details>
+<summary>🛠️ Tools & DevOps</summary>
+<br>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</details>
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  <p align="center"><i>Computer Science and engineering undergraduate from Mexico at the <a href="https://www.uprm.edu">University of Puerto Rico - Mayagüez</a></i></p>
-  <p align="center"><i>Doing voluntary work as Lead Software Developer for the <a href="https://www.uprm.edu/solarcar/">UPRM Solar Car Team (SERRT-UPRM)</a> in the Telemetry Division.</i></p>
-  <p align="center"><i>Working as a undergradute researc assistant at University of Puerto Rico - Mayaguez in a project for <a href="https://cawt.upr.edu/about-us/">CAWT</a></i></p>
-</div><br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d-mg17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-mg17&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
 
-<h2 align="left">Languages and Tools</h3>
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p> <br/>
-
-
-<h2 align="left">Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d-mg17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=d-mg17&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=1" height="220" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d-mg17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="250" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-mg17&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=d-mg17&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</div>
+
+## 🏆 Achievements & Highlights
+
+- 🎯 **Lead Software Developer** for UPRM Solar Car Team Telemetry Division
+- 🔬 **Research Assistant** contributing to innovative projects at CAWT
+- 🎓 **Computer Science & Engineering** student with focus on practical applications
+- ⚡ **Full-Stack Developer** with experience in modern web technologies
+- 🤖 **AI/ML Enthusiast** working with cutting-edge data science tools
+
+## 🤝 Let's Connect!
+
+I'm always excited to collaborate on innovative projects, especially those involving:
+- 🌱 **Sustainable Technology & Clean Energy**
+- 🚗 **IoT and Embedded Systems**
+- 🤖 **AI/ML Applications**
+- 🌐 **Full-Stack Web Development**
+- 📊 **Data Science & Analytics**
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=d-mg17&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</div>
+
+---
+
+<div align="center">
+  <i>💡 "Innovation distinguishes between a leader and a follower." - Steve Jobs</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
 </div>
