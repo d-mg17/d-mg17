@@ -7,7 +7,7 @@
 <h1 align="center">👋 I’m Diego Martínez García</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=AABA99&center=true&vCenter=true&width=940&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Developer;Solar+Car+Team+Lead+Developer;Research+Assistant;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=AABA99&center=true&vCenter=true&width=940&lines=SSoftware+%26+Engineering+Student;Full-Stack+Developer;Solar+Car+Team+Lead+Developer;Research+Assistant;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,9 +16,6 @@
   </a>
   <a href="https://www.linkedin.com/in/d-mg17/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.github.com/diegomartinez13">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
@@ -30,23 +27,11 @@
 const DIEGO = {
     location: "Puerto Rico 🇵🇷",
     nationality: "Mexico 🇲🇽",
-    education: "Computer Science & Engineering @ UPR Mayagüez",
-    currentRole: "Lead Software Developer",
-    team: "UPRM Solar Car Team (SERRT-UPRM)",
-    division: "Telemetry",
-    research: "Undergraduate Research Assistant @ CAWT",
-    interests: ["Full-Stack Development", "IoT", "Data Science", "Machine Learning"],
-    currentlyLearning: ["IT Automation", "High Performance Computing", "Embedded Systems"],
-    funFact: "I help build solar-powered race cars! ☀️🏎️"
+    bachelor: "Bachelor of Science in Computer Science @ UPR Mayagüez"
+    grad_studies: "PhD in Software Engineering @ UPR Mayagüez",
+    interests: ["Machine Learning", "Virtual Machines", "High Performance Computing", "BioInformatics"]
 };
 ```
-
-## 🎯 What I'm Working On
-
-🔬 **Research Assistant** - Contributing to cutting-edge projects at [CAWT](https://cawt.upr.edu/about-us/)  
-⚡ **Solar Car Development** - Leading telemetry systems for the [UPRM Solar Car Team](https://www.uprm.edu/solarcar/)  
-📚 **Academic Excellence** - Pursuing Computer Science & Engineering at UPR Mayagüez  
-🌱 **Continuous Learning** - Always exploring new technologies and methodologies  
 
 ## 🛠️ Tech Stack
 
@@ -136,22 +121,13 @@ const DIEGO = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=d-mg17&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </div>
 
-## 🏆 Achievements & Highlights
-
-- 🎯 **Lead Software Developer** for UPRM Solar Car Team Telemetry Division
-- 🔬 **Research Assistant** contributing to innovative projects at CAWT
-- 🎓 **Computer Science & Engineering** student with focus on practical applications
-- ⚡ **Full-Stack Developer** with experience in modern web technologies
-- 🤖 **AI/ML Enthusiast** working with cutting-edge data science tools
-
 ## 🤝 Let's Connect!
 
 I'm always excited to collaborate on innovative projects, especially those involving:
-- 🌱 **Sustainable Technology & Clean Energy**
 - 🚗 **IoT and Embedded Systems**
 - 🤖 **AI/ML Applications**
 - 🌐 **Full-Stack Web Development**
-- 📊 **Data Science & Analytics**
+- 📊 **Data Science, Analytics & BioInformatics**
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=d-mg17&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
