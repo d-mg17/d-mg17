@@ -7,7 +7,7 @@
 <h1 align="center">👋 I’m Diego Martínez García</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=AABA99&center=true&vCenter=true&width=940&lines=SSoftware+%26+Engineering+Student;Full-Stack+Developer;Solar+Car+Team+Lead+Developer;Research+Assistant;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=AABA99&center=true&vCenter=true&width=940&lines=Software+Engineering+PhD+Student;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
