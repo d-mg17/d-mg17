@@ -27,7 +27,7 @@
 const DIEGO = {
     location: "Puerto Rico 🇵🇷",
     nationality: "Mexico 🇲🇽",
-    bachelor: "Bachelor of Science in Computer Science @ UPR Mayagüez"
+    bachelor: "Bachelor of Science in Computer Science @ UPR Mayagüez",
     grad_studies: "PhD in Software Engineering @ UPR Mayagüez",
     interests: ["Machine Learning", "Virtual Machines", "High Performance Computing", "BioInformatics"]
 };
